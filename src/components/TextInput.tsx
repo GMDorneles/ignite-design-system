@@ -40,6 +40,6 @@ TextInputInput.displayName = 'TextInput.Input'
 export const TextInput = {
     Root: TextInputRoot,
     Input: TextInputInput,
-    Incon: TextInputIcon,
+    Icon: TextInputIcon,
 
 }
